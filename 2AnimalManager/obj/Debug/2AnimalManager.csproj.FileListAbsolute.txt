@@ -1,0 +1,7 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\bin\Debug\2AnimalManager.exe.config
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\bin\Debug\2AnimalManager.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\bin\Debug\2AnimalManager.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\obj\Debug\2AnimalManager.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\obj\Debug\2AnimalManager.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\obj\Debug\2AnimalManager.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\2AnimalManager\obj\Debug\2AnimalManager.pdb

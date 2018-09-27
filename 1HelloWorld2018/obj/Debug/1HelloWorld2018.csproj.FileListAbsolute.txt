@@ -1,0 +1,7 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\bin\Debug\HelloWorld2018.exe.config
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\bin\Debug\HelloWorld2018.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\bin\Debug\HelloWorld2018.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\obj\Debug\1HelloWorld2018.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\obj\Debug\1HelloWorld2018.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\obj\Debug\HelloWorld2018.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\HelloWorld2018\obj\Debug\HelloWorld2018.pdb

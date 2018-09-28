@@ -1,0 +1,9 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\bin\Debug\3RemoteController.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\bin\Debug\3RemoteController.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\bin\Debug\3Shared.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\bin\Debug\3Shared.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\obj\Debug\3RemoteController.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\obj\Debug\3RemoteController.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\obj\Debug\3RemoteController.csproj.CopyComplete
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\obj\Debug\3RemoteController.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3RemoteController\obj\Debug\3RemoteController.pdb

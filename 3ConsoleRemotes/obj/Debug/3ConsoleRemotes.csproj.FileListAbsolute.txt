@@ -1,0 +1,12 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3ConsoleRemotes.exe.config
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3ConsoleRemotes.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3ConsoleRemotes.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3Shared.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3Shared.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\obj\Debug\3ConsoleRemotes.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\obj\Debug\3ConsoleRemotes.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\obj\Debug\3ConsoleRemotes.csproj.CopyComplete
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\obj\Debug\3ConsoleRemotes.exe
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\obj\Debug\3ConsoleRemotes.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3RemoteController.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\3ConsoleRemotes\bin\Debug\3RemoteController.pdb

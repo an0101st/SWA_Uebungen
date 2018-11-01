@@ -1,0 +1,6 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\bin\Debug\4Shared.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\bin\Debug\4Shared.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\obj\Debug\4Shared.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\obj\Debug\4Shared.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\obj\Debug\4Shared.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\4Shared\obj\Debug\4Shared.pdb

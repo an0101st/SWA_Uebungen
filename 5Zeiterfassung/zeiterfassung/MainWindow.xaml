@@ -1,0 +1,53 @@
+﻿<Window x:Class="zeiterfassung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zeiterfassung"
+        mc:Ignorable="d"
+        xmlns:ext="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,6,0" DataContext="{Binding Source={StaticResource Locator}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="History" Grid.Column="1" HorizontalAlignment="Left" Margin="10.2,10,0,0" VerticalAlignment="Top"/>
+        <DataGrid Grid.Column="1" Height="350" VerticalAlignment="Center" Width="200" HorizontalAlignment="Center" Margin="32.2,35,32.6,35.4" Grid.RowSpan="6" ItemsSource="{Binding Main.History}"/>
+        <Button Content="Export" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,9.6,0.4" VerticalAlignment="Bottom" Width="75" Grid.Row="5" Command="{Binding Main.ExportBtn}"/>
+
+        <Grid Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,264.6,-0.6" Grid.RowSpan="6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Label Content="Von" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <ext:DateTimePicker HorizontalAlignment="Left" Margin="45,36,0,0" VerticalAlignment="Top" DataContext="{Binding Main.NewEntry.Von}"/>
+
+            <Label Grid.Column="1" Content="Bis" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <ext:DateTimePicker Grid.Column="1" HorizontalAlignment="Left" Margin="45,36,0,0" VerticalAlignment="Top" DataContext="{Binding Main.NewEntry.Bis}"/>
+
+            <Label Grid.Row="1" Content="Kunde" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <ComboBox Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="0,36,0,0" VerticalAlignment="Center" Width="440" ItemsSource="{Binding Main.CustomerList}" SelectedItem="{Binding Main.NewEntry.Customer}"/>
+
+            <Label Grid.Row="2" Content="Info" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <TextBox Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Bottom" Width="440" Height="20" Background="#FFF1E2E2" DataContext="{Binding Main.NewEntry.Info}"/>
+
+            <Label Grid.Row="3" Content="Task" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <ComboBox Grid.Row="3" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Bottom" Width="440" Height="20" Background="#FFF1E2E2" ItemsSource="{Binding Main.Tasklist}" SelectedItem="{Binding Main.NewEntry.Task}"/>
+
+            <Label Grid.Row="4" Content="Notiz" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <TextBox Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Bottom" Width="440" Height="80" Background="#FFF1E2E2" DataContext="{Binding Main.NewEntry.Notiz}"/>
+
+            <Button Content="Save" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,9.6,0.4" VerticalAlignment="Bottom" Width="75" Grid.Row="5" Command="{Binding Main.SaveBtn}"/>
+        </Grid>
+    </Grid>
+</Window>

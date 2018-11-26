@@ -1,0 +1,6 @@
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\bin\Debug\Communication.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\bin\Debug\Communication.pdb
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\obj\Debug\Communication.dll
+D:\FH\2018-19 2.Jahr\3.Semester\SW-Anwendungsentwicklung\UEbung\UEbung_SWA\6ChatApp\Communication\obj\Debug\Communication.pdb
